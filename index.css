@@ -1,0 +1,44 @@
+*{
+    background-color: rgb(56, 117, 36);
+    
+}
+
+.menu-1 {
+    background-color: rgb(255, 255, 255);
+     
+}
+
+.menu-1 img {
+    background-color: rgb(255, 255, 255);
+    width:200PX;
+     
+  
+}
+.menu-2 img{
+    float: right;
+    width: 500px;
+}
+
+.menu-2  {
+    color: aliceblue;
+     text-align: center;
+}
+
+.txt{
+    color: aliceblue;
+}
+.footer a{
+    color: aliceblue;
+}
+
+@media(max-width: 600px ) {
+ 
+    .menu-1,.menu-1 img,.menu-2,label{
+        width: 100%;
+    }
+
+
+}
+@media(min-width: 600PX) {
+
+}
